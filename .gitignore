@@ -1,0 +1,29 @@
+﻿# Obsidian
+.obsidian/
+.obsidian-sync-helper-backup/
+
+# OS
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp
+*.log
+*.tmp
+
+# Large media
+*.mp4
+*.mp3
+*.wav
+*.mov
+*.avi
+*.mkv
+
+# Exports
+*.exe
+*.msi
