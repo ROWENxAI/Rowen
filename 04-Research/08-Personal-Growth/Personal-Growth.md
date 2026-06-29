@@ -1,0 +1,1 @@
+# Personal Growth\n\n## Subdirectories\n\n- Thinking\n- Human Nature\n- Reading\n- Self Management\n

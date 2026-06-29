@@ -1,0 +1,1 @@
+# Thinking\n\n> Personal Growth / Thinking\n\n## Notes\n\n<!-- Notes go here -->\n
